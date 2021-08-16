@@ -1,0 +1,14 @@
+{
+    "name": "note-taker",
+    "version": "1.0.0",
+    "description": "A simple app for saving and managing notes.",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ella Kramer",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mysql": "^2.17.1"
+    }
+  }
